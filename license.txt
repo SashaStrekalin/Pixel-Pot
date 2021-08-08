@@ -1,0 +1,11 @@
+Model Information:
+* title:	PIXEL POT
+* source:	https://sketchfab.com/3d-models/pixel-pot-0d94fa80e87e49e2b0747d1252b9e3bd
+* author:	Cinnamine (https://sketchfab.com/Lord.Cinn)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "PIXEL POT" (https://sketchfab.com/3d-models/pixel-pot-0d94fa80e87e49e2b0747d1252b9e3bd) by Cinnamine (https://sketchfab.com/Lord.Cinn) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
